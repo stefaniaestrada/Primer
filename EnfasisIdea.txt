@@ -1,0 +1,1 @@
+Idea: Una página web que permita ingresar el año en el cual te graduaste y te diga toda la información erronea que fue enseñada en esa epoca. 
